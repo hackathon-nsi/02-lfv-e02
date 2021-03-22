@@ -12,6 +12,6 @@ niveau 4 : |--------------------|<br />
 <!-- ne pas effacer les lignes ci-dessus et mettre à jour la progression régulièrement -->
 
 ## JOURNAL DE BORD
-
+J'ai commencé a regarder comment faire en Javascript (Basile)
 
 ## DOCUMENTATION

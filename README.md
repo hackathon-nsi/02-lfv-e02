@@ -12,7 +12,7 @@ niveau 4 : |--------------------|<br />
 <!-- ne pas effacer les lignes ci-dessus et mettre à jour la progression régulièrement -->
 
 ## JOURNAL DE BORD
-J'ai commencé a regarder comment faire en Javascript (Basile)
-C'est bien 👍. (Philipp)
+J'ai commencé a regarder comment faire en Javascript (Basile)<br />
+C'est bien 👍. (Philipp)<br />
 
 ## DOCUMENTATION

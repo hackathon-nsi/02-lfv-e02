@@ -14,5 +14,5 @@ niveau 4 : |--------------------|<br />
 ## JOURNAL DE BORD
 J'ai commencé a regarder comment faire en Javascript (Basile)<br />
 C'est bien 👍. (Philipp)<br />
-
+Moi aussi j commence a cherchez pour javascript.
 ## DOCUMENTATION

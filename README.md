@@ -15,8 +15,8 @@ niveau 4 : |--------------------|<br />
 J'ai commencé a regarder comment faire en Javascript (Basile)<br />
 C'est bien 👍. (Philipp)<br />
 Moi aussi j commence a cherchez pour javascript.<br />
-Basile: JS<br />
-Rafael: JS<br />
+Basile: basile ecrit un programme qui transforme un texte donné en texte avec des emojis en JS<br />
+Rafael: je vais crée le site autour du programme de basile en JS<br />
 Philipp: extension chrome<br />
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />

@@ -20,3 +20,4 @@ Rafael: je vais crée le site autour du programme de basile en JS<br />
 Philipp: extension chrome<br />
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
+xx

@@ -5,7 +5,7 @@
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
 niveau 1 : |###################-|<br />
 niveau 2 : |##########----------|<br />
-niveau 3 : |####----------------|<br />
+niveau 3 : |############--------|<br />
 niveau 4 : |--------------------|<br />
 
 <hr />
@@ -18,6 +18,11 @@ Moi aussi j commence a cherchez pour javascript.<br />
 Basile: basile ecrit un programme qui transforme un texte donné en texte avec des emojis en JS<br />
 Rafael: je vais crée le site autour du programme de basile en JS<br />
 Philipp: extension chrome<br />
+
+
+15/04/2021
+Rafael:J'ai avancé sur le site et j'ai partagé une première version sur github
+
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
 

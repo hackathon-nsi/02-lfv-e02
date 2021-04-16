@@ -25,7 +25,7 @@ Rafael:J'ai avancé sur le site et j'ai partagé une première version sur githu
        J'ai aussi ajouté le Input de la princesse de clève pour le programme python. <br />
 16/04/2021<br />
 Rafael:j'ai ajouté une 3ème version de la page html.<br />
-v3.2--> reglage des probl'eme d'alignement quand on etend la page. la desième boite est devenu div pour eempécher les personnes d'y écrire.<br />
+v3.2--> reglage des problèmes d'alignements quand on etend la page. la desième boite est devenu div pour eempécher les personnes d'y écrire.<br />
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
 

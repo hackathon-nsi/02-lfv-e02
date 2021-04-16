@@ -37,5 +37,5 @@ Rafael.<br />
 16/04/2021<br />
 Javascript site Rafael v3 est la page html avec un peu de décoration(emoji).<br />
 Rafael.<br />
-
+PS dites le moi si il faut que j'enlève les ancienne versions.
 

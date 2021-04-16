@@ -29,8 +29,10 @@ v3.2--> reglage des problèmes d'alignements quand on etend la page. la desième
 v3.3--> supression d'une decoration superflue + ajout d'espaces pour equilibrer
 
 
-(v3.4)-->j'essaye de crée un bouton de réinitialisation mais je ne parviens pas a éffacer le texte entrer<br />
+(v4)-->j'essaye de crée un bouton de réinitialisation mais je ne parviens pas a éffacer le texte entrer<br />
 
+v4--> ajout d'un fond d'écran + supression d'une decoration superflue<br />
+(v4)-->j'essaye de crée un bouton de réinitialisation mais je ne parviens pas a éffacer le texte entrer<br />
 
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
@@ -46,6 +48,7 @@ Javascript site Rafael v3 est la page html avec un peu de décoration(emoji).<br
 v3.1 est un peu plus épuré.<br />
 v3.2=v3.1 en reglant certain problèmes<br />
 v3.3 = amélioration de la v3.2<br />
+v4= version quasi finale.<br />
 Rafael.<br />
 PS: Dites le moi si il faut que j'enlève les anciennes versions.
 

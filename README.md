@@ -27,6 +27,11 @@ Rafael:J'ai avancé sur le site et j'ai partagé une première version sur githu
 Rafael:j'ai ajouté une 3ème version de la page html.<br />
 v3.2--> reglage des problèmes d'alignements quand on etend la page. la desième boite est devenu div pour eempécher les personnes d'y écrire.<br />
 v3.3--> supression d'une decoration superflue + ajout d'espaces pour equilibrer
+
+
+(v3.4)-->j'essaye de crée un bouton de réinitialisation mais je ne parviens pas a éffacer le texte entrer<br />
+
+
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
 

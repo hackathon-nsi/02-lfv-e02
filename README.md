@@ -23,7 +23,8 @@ Philipp: extension chrome<br />
 15/04/2021
 Rafael:J'ai avancé sur le site et j'ai partagé une première version sur github.
        J'ai aussi ajouté le Input de la princesse de clève pour le programme python. 
-
+16/04/2021
+Rafael:j'ai ajouté une 3ème version de la page html.
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
 
@@ -31,6 +32,10 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 Le programme RempleceEmoji est le programme python.
 Le programme Javascript site Rafael.zip est le site autour du programme de traduction en JS.
 Javascript site Rafael v2 est le même que le v1 avec des pourcentages.
+Rafael.
+
+16/04/2021
+Javascript site Rafael v3 est la page html avec un peu de décoration(emoji).
 Rafael.
 
 

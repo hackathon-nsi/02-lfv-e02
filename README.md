@@ -38,16 +38,7 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 
 15/04/2021
 Le programme RempleceEmoji est le programme python.<br />
-Le programme Javascript site Rafael.zip est le site autour du programme de traduction en JS.<br />
-Javascript site Rafael v2 est le même que le v1 avec des pourcentages.<br />
-Rafael.<br />
-
-16/04/2021<br />
-Javascript site Rafael v3 est la page html avec un peu de décoration(emoji).<br />
-v3.1 est un peu plus épuré.<br />
-v3.2=v3.1 en reglant certain problèmes<br />
-v3.3 = amélioration de la v3.2<br />
-v4= version quasi finale.<br />
+Le programme Javascript site Rafael v4.zip est le site autour du programme de traduction en JS.<br />
 Rafael.<br />
 PS: Dites le moi si il faut que j'enlève les anciennes versions.
 

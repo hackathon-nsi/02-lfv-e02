@@ -5,7 +5,7 @@
 **PROGRESSION** (*changer les - par des # | # = 5%*)<br />
 niveau 1 : |###################-|<br />
 niveau 2 : |##########----------|<br />
-niveau 3 : |##################--|<br />
+niveau 3 : |###################-|<br />
 niveau 4 : |--------------------|<br />
 
 <hr />
@@ -38,7 +38,8 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 
 15/04/2021
 Le programme RempleceEmoji est le programme python.<br />
-Le programme Javascript site Rafael v4.zip est le site autour du programme de traduction en JS.<br />
+Le programme "Javascript_site_Rafael_v4.1.zip" est le site autour du programme de traduction en JS.<br />
+pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.
 Rafael.<br />
 PS: Dites le moi si il faut que j'enlève les anciennes versions.
 

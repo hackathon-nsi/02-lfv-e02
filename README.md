@@ -19,19 +19,17 @@ Basile: basile ecrit un programme qui transforme un texte donné en texte avec d
 Rafael: je vais crée le site autour du programme de basile en JS<br />
 Philipp: extension chrome<br />
 
-
-15/04/2021<br />
-Rafael:J'ai avancé sur le site et j'ai partagé une première version sur github.<br />
-       J'ai aussi ajouté le Input de la princesse de clève pour le programme python. <br />
-16/04/2021<br />
-Rafael:j'ai ajouté une 3ème version de la page html.<br />
-
-v3.2--> reglage des problèmes d'alignements quand on etend la page. la desième boite est devenu div pour eempécher les personnes d'y écrire.<br />
-
-v3.3--> supression d'une decoration superflue + ajout d'espaces pour equilibrer
-
-v4--> ajout d'un fond d'écran + supression d'une decoration superflue<br />
-(v4)-->j'essaye de crée un bouton de réinitialisation mais je ne parviens pas a éffacer le texte entrer<br />
+site html:<br />
+       15/04/2021<br />
+       Rafael:J'ai avancé sur le site et j'ai partagé une première version sur github.<br />
+              J'ai aussi ajouté le Input de la princesse de clève pour le programme python. <br />
+       16/04/2021<br />
+       Rafael:j'ai ajouté une 3ème version de la page html.<br />
+       v3.2--> reglage des problèmes d'alignements quand on etend la page. la desième boite est devenu div pour eempécher les personnes d'y écrire.<br />
+       v3.3--> supression d'une decoration superflue + ajout d'espaces pour equilibrer<br />
+       v4--> ajout d'un fond d'écran + supression d'une decoration superflue<br />
+       20/04/2021<br />
+       v4.1--> bouton de réinitialisation fonctionel<br />
 
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />

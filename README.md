@@ -34,9 +34,9 @@ site html:<br />
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
 
-15/04/2021
-Le programme RempleceEmoji est le programme python.<br />
-Le programme "Javascript_site_Rafael_v4.1.zip" est le site autour du programme de traduction en JS.<br />
-Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
+
+-Le programme RempleceEmoji est le programme python.<br />
+-Le programme "Javascript_site_Rafael_v4.1.zip" est le site autour du programme de traduction en JS.<br />
+--->Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
 Rafael.<br />
 

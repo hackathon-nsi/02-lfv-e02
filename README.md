@@ -6,7 +6,7 @@
 niveau 1 : |###################-|<br />
 niveau 2 : |##########----------|<br />
 niveau 3 : |###################-|<br />
-niveau 4 : |--------------------|<br />
+niveau 4 : |###########---------|<br />
 
 <hr />
 <!-- ne pas effacer les lignes ci-dessus et mettre à jour la progression régulièrement -->
@@ -30,6 +30,9 @@ site html:<br />
        v4--> ajout d'un fond d'écran + supression d'une decoration superflue<br />
        20/04/2021<br />
        v4.1--> bouton de réinitialisation fonctionel<br />
+       
+extension chrome:<br />
+plus ou moins terminé mais difficile a finaliser sans le code js de basile<br />
 
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />

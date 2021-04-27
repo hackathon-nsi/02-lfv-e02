@@ -17,13 +17,13 @@ function emoji() {
 			o = dict["princesse"]
 		}else if (list[i] == "princesses"){
 			o = dict["princesse"]
-        }else if (list[i] == "princes"){
+        	}else if (list[i] == "princes"){
 			o = dict["prince"]
-        }else if (list[i] == "prince"){
+        	}else if (list[i] == "prince"){
 			o = dict["prince"]
-        }else if (list[i] == "passion"){
+        	}else if (list[i] == "passion"){
 			o = dict["passion"]
-	}else if (list[i] == "passions"){
+		}else if (list[i] == "passions"){
 			o = dict["passions"]
 		final = final + o
 	}

@@ -40,6 +40,7 @@ site html:<br />
        
 extension chrome:<br />
 plus ou moins terminé mais difficile a finaliser sans le code js de basile<br />
+Je pense que c'est le lenght qui bloque mais ça devrait marcher et je ne voit pas d'autre manière<br/>
 
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
@@ -49,7 +50,4 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 -Le programme "Javascript_site_Rafael_v4.1.zip" est le site autour du programme de traduction en JS.<br />
 --->Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
 Rafael.<br />
-
-
-Je pense que c'est le lenght qui bloque mais ça devrait marcher et je ne voit pas d'autre manière<br/>
 

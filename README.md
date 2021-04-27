@@ -30,6 +30,13 @@ site html:<br />
        v4--> ajout d'un fond d'écran + supression d'une decoration superflue<br />
        20/04/2021<br />
        v4.1--> bouton de réinitialisation fonctionel<br />
+  </br>    
+ </br>      
+ </br>
+ message pour basile: je n'arrive pas a faire marcher ton programme tu peux jetter un coup d'oeuil stp. Nom du fichier:Javascript_site_Rafael_pour basile</br>
+ </br>
+ </br>
+ </br>
        
 extension chrome:<br />
 plus ou moins terminé mais difficile a finaliser sans le code js de basile<br />

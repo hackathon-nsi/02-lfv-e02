@@ -12,7 +12,7 @@ function emoji() {
 
 	
 
-	for (i=0;i<2;i++) {
+	for (i=0 ; i<list.lenght ; i++) {
   		if (list[i] == "princesse"){
 			o = dict["princesse"]
 		}else if (list[i] == "princesses"){

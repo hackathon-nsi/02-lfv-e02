@@ -60,4 +60,4 @@ INFOS EXTENSION CHROME:<br />
 Etape 1: rempleceEmoji.py par Philipp <br />
 Etape 2: Javascript Hackathon.txt par Basile<br />
 Etape 3: site_javascript_pour_basile.zip par Rafael<br />
-Etape 4: <br />
+Etape 4: extension_chrome_philipp par Phlipp<br />

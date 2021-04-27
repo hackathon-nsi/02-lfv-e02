@@ -33,7 +33,7 @@ site html:<br />
   </br>    
  </br>      
  </br>
- message pour basile: je n'arrive pas a faire marcher ton programme tu peux jetter un coup d'oeuil stp. Nom du fichier:Javascript_site_Rafael_pour basile</br>
+ message pour basile: je n'arrive pas a faire marcher ton programme tu peux jetter un coup d'oeuil stp. Nom du fichier:Javascript_site_Rafael_test2 (ne marche toujour pas après avoir tout déplacer dans le HTML)</br>
  </br>
  </br>
  </br>

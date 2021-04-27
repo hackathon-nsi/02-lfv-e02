@@ -51,3 +51,7 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 --->Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
 Rafael.<br />
 
+Etape 1: <br />
+Etape 2: <br />
+Etape 3: <br />
+Etape 4: <br />

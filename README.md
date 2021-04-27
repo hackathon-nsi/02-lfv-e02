@@ -51,6 +51,12 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 --->Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
 Rafael.<br />
 
+INFOS EXTENSION CHROME:<br />
+1- Extraire le fichier extesnion_emojis du fichier .zip<br />
+2- Ouvrir chrome://extensions/ <br />
+3- Activer le mode developpeur en haut a droite sur la page <br />
+4- Clicker "Load unpacked" (sur la version englaise) en haut a gauche et sélectionner le dossier de l'éxetension <br /> 
+
 Etape 1: rempleceEmoji.py par Philipp <br />
 Etape 2: Javascript Hackathon.txt par Basile<br />
 Etape 3: site_javascript_pour_basile.zip par Rafael<br />

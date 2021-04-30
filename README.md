@@ -48,7 +48,7 @@ Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le t
 
 
 -Le programme RempleceEmoji est le programme python.<br />
--Le programme "Javascript_site_Rafael_v4.1.zip" est le site autour du programme de traduction en JS.<br />
+-Le programme "Javascript_site_Rafael_final.zip" est le site autour du programme de traduction en JS.<br />
 --->Pour lancer la page il faut ouvrir le fichier "projet_emoji_JS_site" dans un navigateur.<br />
 Rafael.<br />
 

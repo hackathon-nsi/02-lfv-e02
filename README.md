@@ -42,6 +42,8 @@ extension chrome:<br />
 plus ou moins terminé mais difficile a finaliser sans le code js de basile<br />
 Je pense que c'est le lenght qui bloque mais ça devrait marcher et je ne voit pas d'autre manière<br/>
 le code js de basile était difficile à intégrer donc j'ai refait tout<br />
+version 1.2 quelques changements<br />
+j'ai essayer pendant des heures de faire marcher une liste de mots interactive mais je ne l'ai pas réussi<br />
 
 ## DOCUMENTATION
 Pour le fichier remplaceEmojis.py: Créer un fichier "fInput.txt" et mettre le texte du départ dedans, le fichier avec la version modifiée est crée automatiquement.<br />
